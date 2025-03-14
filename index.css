@@ -127,3 +127,28 @@ body{
 .small{
     font-size: 10px;
 }
+
+@media only screen and (max-width: 600px){
+    
+    .container{
+        gap: 70px;
+    }
+    .test{
+        margin-left: 10px;
+        margin-right: 40PX;
+        height: 600px;
+    }
+    .rektangel1{
+        height: 230px;
+    }
+    .panel1{
+        height: 300px;
+    }
+    .panel2{
+        height: 300px;
+    }
+    .sak3{
+        margin-left: 25px;
+        width: 550px;
+    }
+}
